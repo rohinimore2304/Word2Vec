@@ -3,6 +3,7 @@
 word2vec_nlp.ipynb: The Jupyter Notebook that contains the implementation of the Word2Vec model, training, and evaluation.
 
 # Requirements
+
 To run the code, you'll need the following Python packages:
 
 gensim
